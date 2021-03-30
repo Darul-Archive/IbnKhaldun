@@ -6,4 +6,4 @@ Built using [Javacord](https://github.com/Javacord/Javacord). Javacord [docs](ht
 
 
 ## TODO
-* Change the name of the bot to the name of a 'single highly reputed historian'
+* Change the name of the bot to the name of a 'single highly reputed historian' (Ibn Rushd, Ibn Khaldun)

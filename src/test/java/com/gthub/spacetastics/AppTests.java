@@ -1,4 +1,4 @@
-package com.gthub.spacetastics;
+package com.github.spacetastics;
 
 import org.junit.Test;
 

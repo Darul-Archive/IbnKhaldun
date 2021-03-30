@@ -7,3 +7,4 @@ Built using [Javacord](https://github.com/Javacord/Javacord). Javacord [docs](ht
 
 ## TODO
 * Change the name of the bot to the name of a 'single highly reputed historian'
+* Get a picture for the bot (gonna be a while)

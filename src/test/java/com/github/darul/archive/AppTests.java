@@ -1,4 +1,4 @@
-package com.github.spacetastics;
+package com.github.darul.archive;
 
 import org.junit.Test;
 

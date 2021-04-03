@@ -2,7 +2,7 @@ plugins {
     java
 }
 
-group = "com.github.spacetastics"
+group = "com.github.darul.archive"
 version = "1.0-SNAPSHOT"
 
 repositories {

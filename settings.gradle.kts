@@ -1,2 +1,2 @@
-rootProject.name = "IslamicHistoryBot"
+rootProject.name = "IbnKhaldun"
 

@@ -1,4 +1,4 @@
-# IslamicHistoryBot
+# Ibn Khaldun Bot
 
 A Discord bot for Islamic History.
 

@@ -1,4 +1,4 @@
-package com.github.spacetastics;
+package com.github.darul.archive;
 
 public class App {
     public static void main(String[] args) {
